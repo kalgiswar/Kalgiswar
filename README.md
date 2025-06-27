@@ -1,30 +1,51 @@
 <h1 align="center">Hi 👋, I'm Kalgiswar</h1>
-<h3 align="center">I’m a CSE-AIML student passionate about AI, ML, and Full Stack Development</h3>
-
-<img align="center" src="‪C:\Users\kalgi\Downloads\687474~1.GIF" alt="banner" width="100%"/>
-
-
----
-
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **ReactJS, Node.js, MongoDB**
-- 👯 I’m looking to collaborate on **Machine Learning & Full Stack Projects**
-- 💬 Ask me about **Python, Git, Flutter, or College Projects**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love building useful apps that solve real problems!
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">CSE (AIML) Student | Future Full Stack & ML Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="45%">
+  <img src="https://your-banner-link.com/banner.png" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+📫 **How to reach me:** [your.email@gmail.com](mailto:your.email@gmail.com)
+
+### 🌐 Connect with me:
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername)
+
+---
+
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+
+---
+
+### 🧠 Current Focus:
+- 📦 Building E-commerce Projects
+- 🔥 Learning ReactJS, Spring Boot, APIs
+- 🤝 Open for Collaboration on Full Stack and ML Projects
