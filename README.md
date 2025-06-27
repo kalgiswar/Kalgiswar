@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalgiswar</h1>
 <h3 align="center">I’m a CSE-AIML student passionate about AI, ML, and Full Stack Development</h3>
 
-<img align="center" src="https://your-image-link.com/banner.png" alt="banner" width="100%"/>
+<img align="center" src="‪C:\Users\kalgi\Downloads\687474~1.GIF" alt="banner" width="100%"/>
 
 
 ---
