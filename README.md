@@ -2,7 +2,7 @@
 <h3 align="center">CSE (AIML) Student | Future Full Stack & ML Developer</h3>
 
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Banner" width="100%"/>
+  <img src="‪C:\\Users\\kalgi\\Downloads\\banner.gif" alt="Banner" width="100%"/>
 </p>
 
 ---
