@@ -2,7 +2,7 @@
 <h3 align="center">CSE (AIML) Student | Future Full Stack & ML Developer</h3>
 
 <p align="center">
-  <img src="https://rishavchanda.io/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" width="100%"/>
 
 </p>
 
