@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalgiswar</h1>
 <h3 align="center">CSE (AIML) Student | Future Full Stack & ML Developer</h3>
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue)](https://rishavchanda.io/)
----
 
 📫 **How to reach me:** [your.email@gmail.com](mailto:your.email@gmail.com)
 
