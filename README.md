@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kalgiswar</h1>
 <h3 align="center">CSE (AIML) Student | Future Full Stack & ML Developer</h3>
+<h4> A passionate Computer Science Engineering student at SRM Ramapuram, specializing in Artificial Intelligence & Machine Learning. I'm a curious explorer in the world of Python, React, Flutter, and AI/ML, and I love turning ideas into impactful tech projects 💡🚀.
 
+I'm currently building full-stack applications, experimenting with AI models, and developing real-world solutions—whether it's facial emotion detection, smart order systems, or futuristic military-tech like HawkSight 👁️‍🗨️🔥.</h4>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
